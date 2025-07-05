@@ -42,7 +42,7 @@ client/ (if frontend included)
 ## Installation and Setup
 
 1. Clone the repository:
-   git clone https://github.com/iParamModi/Wardrobe_Tracker.git
+   git [clone](https://github.com/iParamModi/Wardrobe_Tracker.git) 
    cd wardrobe-tracker
 
 2. Install backend dependencies:
@@ -72,5 +72,5 @@ POST   /users/logout                  - Logout and clear token
 
 ## Author
 
-Made by Param Modi(https://github.com/iParamModi)
+Made by [Param Modi](https://github.com/iParamModi)
 
